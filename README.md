@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Param Desai
-- 👀 I’m interested in many things like coding and 3D modeling
-- 🌱 I’m currently learning more python and Blender for 3D modeling
+- Bachelors of Computer Science
+- Carleton University
 
 <!---
 ParamDesai111/ParamDesai111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
