@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Param Desai
 - Bachelors of Computer Science
 - Carleton University
+- paramdesai.netlify.app
 
 <!---
 ParamDesai111/ParamDesai111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
