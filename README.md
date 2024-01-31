@@ -1,21 +1,22 @@
-# Hi, I'm Param Desai
+<h1 align="center">Hi, 👋 I'm Param Desai</h1>
 
-## About Me:
+
+# 💫 About Me:
 
 I'm a second-year Computer Science student at Carleton University, passionate about learning new technologies, machine learning, and building innovative applications.
 
-## What I'm Up To
+# 🚀 What I'm Up To
 
 - Learning Machine Learning with python libraries(pandas, Numpy, scikit-learn, Tensorflow).
 - I am diving into the world of cloud computing by learning AWS Cloud Services.
 - Learning different Microsoft Azure platforms like PowerBi and Logic Apps.
 
-- ## Connect with me:
+# 🌐 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/paramdesai111)
 - [Portfolio Website](https://paramdesai.netlify.app)
 
-## Tech Stack:
+# 💻 Tech Stack:
 
 - Languages:
             <img src='https://img.shields.io/badge/Python-306998?logo=Python&logoColor=FFD43B' width="65" height="20" />
@@ -36,6 +37,8 @@ I'm a second-year Computer Science student at Carleton University, passionate ab
                   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" width="65" height="20" />
                   <img src='https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white' width="65" height="20" />
                   <img src='https://img.shields.io/badge/Power_Platform-742774?logo=powerapps&logoColor=white' width="70" height="20" />
+                  <img src='https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white' width="65" height="20" />
+
 
 
 - Libraries/Frameworks:
