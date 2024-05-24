@@ -9,7 +9,7 @@ I'm a second-year Computer Science student at Carleton University, passionate ab
 
 - Learning Machine Learning with python libraries(pandas, Numpy, scikit-learn, Tensorflow).
 - I am diving into the world of cloud computing by learning AWS Cloud Services.
-- Learning different Microsoft Azure platforms like PowerBi and Logic Apps.
+- Learning different Microsoft Azure platforms like Azure DataBricks, Azure Data Factory
 
 # 🌐 Connect with me:
 
