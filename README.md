@@ -8,6 +8,7 @@ I'm a second-year Computer Science student at Carleton University, passionate ab
 # 🚀 What I'm Up To
 
 - Learning Machine Learning with python libraries(pandas, Numpy, scikit-learn, Tensorflow).
+  - Making a reccomendation system with different libraries
 - I am diving into the world of cloud computing by learning AWS Cloud Services.
 - Learning different Microsoft Azure platforms like Azure DataBricks, Azure Data Factory, Logic Apps, Power Platform
 
