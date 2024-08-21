@@ -16,7 +16,7 @@ Currently studying Computer Science (Stream: AI and Machine Learning) and Minor 
   - Making a recomendation system with different libraries
   - Forecasting Sports Data of players for future statistics
 - Creating Data Pipelines with large scale data using Python, Spark, ADF and Databricks
-- Learning full capabilities of Azure and using with person projects
+- Learning full capabilities of Azure and using with personal projects
 
 # 🌐 Connect with me:
 
