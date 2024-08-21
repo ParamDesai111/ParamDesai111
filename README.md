@@ -3,14 +3,20 @@
 
 # 💫 About Me:
 
-I'm a second-year Computer Science student at Carleton University, passionate about learning new technologies, machine learning, and building innovative applications.
+## Education
+Currently studying Computer Science (Stream: AI and Machine Learning) and Minor of Statistics at Carleton University 
+
+## Professional Experience 
+- Data Engineering Intern at Bank of Canada
+- Prev at Avanade Inc. as Cloud Engineering Intern
 
 # 🚀 What I'm Up To
 
 - Learning Machine Learning with python libraries(pandas, Numpy, scikit-learn, Tensorflow).
-  - Making a reccomendation system with different libraries
-- I am diving into the world of cloud computing by learning AWS Cloud Services.
-- Learning different Microsoft Azure platforms like Azure DataBricks (streaming), Azure Data Factory, Logic Apps, Power Platform
+  - Making a recomendation system with different libraries
+  - Forecasting Sports Data of players for future statistics
+- Creating Data Pipelines with large scale data using Python, Spark, ADF and Databricks
+- Learning full capabilities of Azure and using with person projects
 
 # 🌐 Connect with me:
 
