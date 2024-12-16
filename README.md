@@ -7,17 +7,20 @@
 Currently studying Computer Science (Stream: AI and Machine Learning) and Minor of Statistics at Carleton University 
 
 ## Professional Experience 
-- Data Engineering Intern at Bank of Canada
+- Currently working: Data Engineering Intern at Bank of Canada
 - Prev at Avanade Inc. as Cloud Engineering Intern
 
 # 🚀 What I'm Up To
 
-- Learning Machine Learning with python libraries(pandas, Numpy, scikit-learn, Tensorflow).
-  - Making a recomendation system with different libraries
-  - Forecasting Sports Data of players for future statistics
-- Creating Data Pipelines with large scale data using Python, Spark, ADF and Databricks
-- Learning full capabilities of Azure and using with personal projects
-
+- Using Machine Learning to do forecasting/predictions with python libraries (pandas, Numpy, scikit-learn, Tensorflow, PyTorch).
+  - Statistical Models: ARIMA, SARIMA, ETS.
+  - Machine Learning Models: XGBoost, Random Forest, Gradient Boosting.
+  - Deep Learning Models: LSTM, Temporal Convolutional Networks (TCN), KNN.
+- Creating ETL Pipelines with big data using Kafka, Hadoop, Hive, Apache Spark, and Databricks/ADF.
+- Using Natural Language Processing (NLP) to generate sentiment features.
+  - Pre-trained Models: BERT (via HuggingFace), RoBERTa, VADER (Valence Aware Dictionary for Sentiment Reasoning).
+  - Topic Modeling: BERTopic, LDA.
+  
 # 🌐 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/paramdesai111)
