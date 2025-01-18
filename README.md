@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 ## Education
-Currently studying Computer Science (Stream: AI and Machine Learning) and Minor of Statistics at Carleton University 
+Currently studying Computer Science (Stream: AI and Machine Learning) and Minor of Statistics at Carleton University.
 
 ## Professional Experience 
 - Currently working: Data Engineering Intern at Bank of Canada
